@@ -1,8 +1,8 @@
 # lecture1
 Adding a second branch - called 'feature'
 
-1: git branch feature // add the feature branch
-2: change to that branch -> git checkout branch // Switched to branch 'feature'
+1: git branch feature // add the feature branch <br>
+2: change to that branch -> git checkout branch // Switched to branch 'feature'<br>
 3. do normal git add <file.name> & git commit -m "..."
 4. git push - you'll get the following message:
   
